@@ -2,7 +2,6 @@
 
  
 html,body {
-    background-image: url(mars-planet-landscape.png);
     background-size: cover;
     font-family: Aldrich, sans-serif;
     /* 90px bcs fixed-top navbar which have 90px height */
